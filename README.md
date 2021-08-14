@@ -4,6 +4,8 @@ This tool implements ASCII85 and Z85 decoding and encoding.
 
 # Installation
 
+## Swift Package Manager
+
 This tool can be installed through Swift Package Manager by adding this to your `Package.swift`:
 ```
 dependencies: [
@@ -14,6 +16,13 @@ dependencies: [
 Or add it in Xcode:
 1. File → Add Packages...
 2. Package URL: https://github.com/batonPiotr/base85
+
+## Cocoapods
+
+Add to your `Podfile` following line:
+```
+    pod `base85`
+```
 
 # Usage
 
