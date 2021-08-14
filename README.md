@@ -12,7 +12,7 @@ dependencies: [
 ],
 ```
 Or add it in Xcode:
-1. File → Swift Packages → Add Package Dependency...
+1. File → Add Packages...
 2. Package URL: https://github.com/batonPiotr/base85
 
 # Usage
